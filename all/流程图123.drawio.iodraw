@@ -92,7 +92,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_Dw6LfkZjahlEefRUMCo-7" value="判断用户是否存在" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="_Dw6LfkZjahlEefRUMCo-7" value="判断邮箱是否合规" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="315" y="309" width="200" height="95" as="geometry" />
         </mxCell>
         <mxCell id="_Dw6LfkZjahlEefRUMCo-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_Dw6LfkZjahlEefRUMCo-9" target="_Dw6LfkZjahlEefRUMCo-13">
