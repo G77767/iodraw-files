@@ -112,7 +112,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_Dw6LfkZjahlEefRUMCo-12" value="判断密码是否正确" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="_Dw6LfkZjahlEefRUMCo-12" value="判断用户是否存在" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="315" y="441" width="200" height="95" as="geometry" />
         </mxCell>
         <mxCell id="_Dw6LfkZjahlEefRUMCo-13" value="结束" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=18;" vertex="1" parent="1">
