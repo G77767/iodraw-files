@@ -1,0 +1,74 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17" pages="2">
+  <diagram name="第 1 页" id="bkxksQhFADR_bi777CBs">
+    <mxGraphModel dx="1434" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="x_Kw2FUEL40AqKpyWDaU-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="x_Kw2FUEL40AqKpyWDaU-1" target="x_Kw2FUEL40AqKpyWDaU-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x_Kw2FUEL40AqKpyWDaU-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="370" y="130" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="x_Kw2FUEL40AqKpyWDaU-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="x_Kw2FUEL40AqKpyWDaU-2" target="x_Kw2FUEL40AqKpyWDaU-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x_Kw2FUEL40AqKpyWDaU-2" value="输入用户信息" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="323" y="202" width="185" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="x_Kw2FUEL40AqKpyWDaU-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="x_Kw2FUEL40AqKpyWDaU-3" target="x_Kw2FUEL40AqKpyWDaU-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x_Kw2FUEL40AqKpyWDaU-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" parent="1" source="x_Kw2FUEL40AqKpyWDaU-3" target="x_Kw2FUEL40AqKpyWDaU-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="357" />
+              <mxPoint x="260" y="237" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x_Kw2FUEL40AqKpyWDaU-3" value="判断用户是否存在" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="315" y="309" width="200" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="x_Kw2FUEL40AqKpyWDaU-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="x_Kw2FUEL40AqKpyWDaU-5" target="x_Kw2FUEL40AqKpyWDaU-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x_Kw2FUEL40AqKpyWDaU-5" value="登录成功" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="365" y="573" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="x_Kw2FUEL40AqKpyWDaU-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="x_Kw2FUEL40AqKpyWDaU-7" target="x_Kw2FUEL40AqKpyWDaU-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x_Kw2FUEL40AqKpyWDaU-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="x_Kw2FUEL40AqKpyWDaU-7" target="x_Kw2FUEL40AqKpyWDaU-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="489" />
+              <mxPoint x="570" y="237" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x_Kw2FUEL40AqKpyWDaU-7" value="判断密码是否正确" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="315" y="441" width="200" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="x_Kw2FUEL40AqKpyWDaU-8" value="结束" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="370" y="660" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="x_Kw2FUEL40AqKpyWDaU-16" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="220" y="290" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x_Kw2FUEL40AqKpyWDaU-18" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="570" y="350" width="40" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="wAlJUcFLg7QYb9mgYdFT" name="第 2 页">
+    <mxGraphModel dx="1434" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
