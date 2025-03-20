@@ -141,6 +141,9 @@
         <mxCell id="0bjAvTgiwzOTBGHVmEVq-3" value="ReLu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="305" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0bjAvTgiwzOTBGHVmEVq-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0bjAvTgiwzOTBGHVmEVq-8" target="0bjAvTgiwzOTBGHVmEVq-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0bjAvTgiwzOTBGHVmEVq-8" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="190" width="200" height="300" as="geometry">
             <mxRectangle x="260" y="230" width="50" height="40" as="alternateBounds" />
@@ -155,11 +158,17 @@
         <mxCell id="0bjAvTgiwzOTBGHVmEVq-4" value="池化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0bjAvTgiwzOTBGHVmEVq-8">
           <mxGeometry x="40" y="200" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0bjAvTgiwzOTBGHVmEVq-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0bjAvTgiwzOTBGHVmEVq-12" target="0bjAvTgiwzOTBGHVmEVq-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0bjAvTgiwzOTBGHVmEVq-12" value="全连接层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0bjAvTgiwzOTBGHVmEVq-13" value="输出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0bjAvTgiwzOTBGHVmEVq-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0bjAvTgiwzOTBGHVmEVq-2" target="0bjAvTgiwzOTBGHVmEVq-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
